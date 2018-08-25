@@ -7,9 +7,11 @@ public class GameController : MonoBehaviour {
 
     public Text inputFieldPlayerScore1Text;
     public Text inputFieldPlayerScore2Text;
+    public Text inputFieldPlayerName1Text;
+    public Text inputFieldPlayername2Text;
 
-    public int PlayerScore1;
-    public int PlayerScore2;
+    private int PlayerScore1;
+    private int PlayerScore2;
 
     public GameObject player1WinText;
     public GameObject player2WinText;
@@ -20,6 +22,8 @@ public class GameController : MonoBehaviour {
     {
         inputFieldPlayerScore1Text.text = "0";
         inputFieldPlayerScore2Text.text = "0";
+        inputFieldPlayerName1Text.text = "Player1";
+        inputFieldPlayername2Text.text = "Player2";
     }
 
     // Update is called once per frame

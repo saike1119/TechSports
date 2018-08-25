@@ -12,9 +12,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-25T15:45:57.100+09:00
+  lastUpdatedAtString: 2018-08-25T16:08:02.308+09:00
   initializedAtString: 2018-08-25T11:04:45.784+09:00
   log:
+  - commitID: c3f8485e2e6b533e0114da618dc440afdedf6d11
+    mergeA: 
+    mergeB: 
+    authorName: saike1119
+    authorEmail: saike1119@gmail.com
+    commitEmail: saike1119@gmail.com
+    commitName: saike1119
+    summary: "\u52DD\u5229\u306Eif\u51E6\u7406\u4F5C\u6210"
+    description: "\u52DD\u5229\u306Eif\u51E6\u7406\u4F5C\u6210"
+    timeString: 2018-08-25T16:07:47.000+09:00
+    commitTimeString: 2018-08-25T16:07:47.000+09:00
+    changes:
+    - path: Assets/Scripts/GameController.cs
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/GameController.cs
+      projectPath: Assets/Scripts/GameController.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/Scripts/SaveScript.cs
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/SaveScript.cs
+      projectPath: Assets/Scripts/SaveScript.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/32/3244fcc8f182e4be886428d3cb334d95
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/32/3244fcc8f182e4be886428d3cb334d95
+      projectPath: Library/metadata/32/3244fcc8f182e4be886428d3cb334d95
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 51cefa500332566cb03ae9471a7db3038bb4cac9
     mergeA: 
     mergeB: 

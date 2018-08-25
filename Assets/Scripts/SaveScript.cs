@@ -33,10 +33,20 @@ public class SaveScript : MonoBehaviour
 
     public void SaveText()
     {
+        Debug.Log(inputFieldPlayerName1.text);
+        if(inputFieldPlayerName1.text == null){
+            inputFieldPlayerName1str = "Player1";
+            inputFieldPlayerName1Text.text = inputFieldPlayerName1str;
+        }
         inputFieldPlayerName1str = inputFieldPlayerName1.text;
         inputFieldPlayerName1Text.text = inputFieldPlayerName1str;
         SetInputFieldPlayerName1(inputFieldPlayerScore1Text.text);
 
+        if (inputFieldPlayerName2.text == null)
+        {
+            inputFieldPlayerName2str = "Player2";
+            inputFieldPlayerName2Text.text = inputFieldPlayerName2str;
+        }
         inputFieldPlayerName2str = inputFieldPlayerName2.text;
         inputFieldPlayerName2Text.text = inputFieldPlayerName2str;
         SetInputFieldPlayerName2(inputFieldPlayerScore1Text.text);
