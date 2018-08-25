@@ -12,15 +12,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-08-25T14:05:13.054+09:00
+  lastUpdatedAtString: 2018-08-25T14:12:52.884+09:00
   initializedAtString: 2018-08-25T13:59:52.480+09:00
   localBranches:
   - name: master
     tracking: origin/master
+  - name: feature/banaoh_add_play
+    tracking: 
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/feature/banaoh_add_play
     tracking: '[None]'
   remotes:
   - name: origin
@@ -33,12 +37,18 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
+    - feature/banaoh_add_play
     values:
     - name: master
       remote:
         name: origin
         url: git@github.com:saike1119/TechSports.git
       trackingBranch: master
+    - name: feature/banaoh_add_play
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
@@ -46,6 +56,7 @@ MonoBehaviour:
     - Values:
       - HEAD
       - master
+      - feature/banaoh_add_play
     subKeyValues:
     - Values:
       - name: HEAD
@@ -54,6 +65,11 @@ MonoBehaviour:
           url: git@github.com:saike1119/TechSports.git
         trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: git@github.com:saike1119/TechSports.git
+        trackingBranch: 
+      - name: feature/banaoh_add_play
         remote:
           name: origin
           url: git@github.com:saike1119/TechSports.git

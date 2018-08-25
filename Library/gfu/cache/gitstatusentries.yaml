@@ -12,6 +12,300 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-25T14:07:23.848+09:00
+  lastUpdatedAtString: 2018-08-25T17:42:51.223+09:00
   initializedAtString: 2018-08-25T13:59:52.081+09:00
-  entries: []
+  entries:
+  - path: .vs/TechSports/xs/sqlite3/storage.ide
+    fullPath: /Users/banaoh/Development/Unity/TechSports/.vs/TechSports/xs/sqlite3/storage.ide
+    projectPath: .vs/TechSports/xs/sqlite3/storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs/TechSports/xs/sqlite3/storage.ide-shm
+    fullPath: /Users/banaoh/Development/Unity/TechSports/.vs/TechSports/xs/sqlite3/storage.ide-shm
+    projectPath: .vs/TechSports/xs/sqlite3/storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs/TechSports/xs/sqlite3/storage.ide-wal
+    fullPath: /Users/banaoh/Development/Unity/TechSports/.vs/TechSports/xs/sqlite3/storage.ide-wal
+    projectPath: .vs/TechSports/xs/sqlite3/storage.ide-wal
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs/TechSports/xs/UserPrefs.xml
+    fullPath: /Users/banaoh/Development/Unity/TechSports/.vs/TechSports/xs/UserPrefs.xml
+    projectPath: .vs/TechSports/xs/UserPrefs.xml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp.csproj
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-firstpass.csproj
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assembly-CSharp-firstpass.csproj
+    projectPath: Assembly-CSharp-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Materials.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Materials.meta
+    projectPath: Assets/Materials.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Materials/RippleMat.mat
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Materials/RippleMat.mat
+    projectPath: Assets/Materials/RippleMat.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Materials/RippleMat.mat.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Materials/RippleMat.mat.meta
+    projectPath: Assets/Materials/RippleMat.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Prefabs/ripple_pic.png
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Prefabs/ripple_pic.png
+    projectPath: Assets/Prefabs/ripple_pic.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Prefabs/ripple_pic.png.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Prefabs/ripple_pic.png.meta
+    projectPath: Assets/Prefabs/ripple_pic.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/ripple_pic.png
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/ripple_pic.png
+    projectPath: Assets/ripple_pic.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/ripple_pic.png.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/ripple_pic.png.meta
+    projectPath: Assets/ripple_pic.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scripts/Field.cs
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/Field.cs
+    projectPath: Assets/Scripts/Field.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scripts/Field.cs.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/Field.cs.meta
+    projectPath: Assets/Scripts/Field.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scripts/Game.cs
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/Game.cs
+    projectPath: Assets/Scripts/Game.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scripts/Game.cs.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/Game.cs.meta
+    projectPath: Assets/Scripts/Game.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scripts/Menco.cs
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/Menco.cs
+    projectPath: Assets/Scripts/Menco.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scripts/Menco.cs.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/Menco.cs.meta
+    projectPath: Assets/Scripts/Menco.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scripts/Position.cs
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/Position.cs
+    projectPath: Assets/Scripts/Position.cs
+    originalPath: 
+    status: 4
+    staged: 1
+  - path: Assets/Scripts/Position.cs.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/Position.cs.meta
+    projectPath: Assets/Scripts/Position.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Scripts/SerialController.cs
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Scripts/SerialController.cs
+    projectPath: Assets/Scripts/SerialController.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Shaders.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Shaders.meta
+    projectPath: Assets/Shaders.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Shaders/Ripple.shader
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Shaders/Ripple.shader
+    projectPath: Assets/Shaders/Ripple.shader
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets/Shaders/Ripple.shader.meta
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Assets/Shaders/Ripple.shader.meta
+    projectPath: Assets/Shaders/Ripple.shader.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/ScriptMapper
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/ScriptMapper
+    projectPath: Library/ScriptMapper
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/banaoh/Development/Unity/TechSports/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt
+    projectPath: obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp-firstpass.csproj.FileListAbsolute.txt
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp-firstpass.csproj.FileListAbsolute.txt
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.csproj.FileListAbsolute.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp-firstpass.dll
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp-firstpass.dll
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj/Debug/Assembly-CSharp-firstpass.pdb
+    fullPath: /Users/banaoh/Development/Unity/TechSports/obj/Debug/Assembly-CSharp-firstpass.pdb
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TechSports.sln
+    fullPath: /Users/banaoh/Development/Unity/TechSports/TechSports.sln
+    projectPath: TechSports.sln
+    originalPath: 
+    status: 3
+    staged: 0

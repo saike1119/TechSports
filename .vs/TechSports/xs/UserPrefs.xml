@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{77D8BD37-319D-3492-D33D-BD04CA4F3126}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SaveScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Ripple.shader">
     <Files>
-      <File FileName="Assets/Scripts/SerialHandler.cs" Line="98" Column="1" />
-      <File FileName="Assets/Scripts/SerialLight.cs" Line="39" Column="2" />
-      <File FileName="Assets/Scripts/SaveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/Field.cs" Line="23" Column="30" />
+      <File FileName="Assets/Scripts/Menco.cs" Line="12" Column="30" />
+      <File FileName="Assets/Scripts/Position.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/SerialController.cs" Line="35" Column="1" />
+      <File FileName="Assets/Shaders/Ripple.shader" Line="24" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -13,4 +16,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UniRx.Examples PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

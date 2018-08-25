@@ -33,7 +33,7 @@ public class SerialController : MonoBehaviour {
         while (this.isLoop)
         {
             string message = this.serial.ReadLine();
-            Debug.Log(message);
+            //Debug.Log(message);
         }
     }
 
