@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
 using System;
 
 public class SaveScript : MonoBehaviour
@@ -21,8 +20,10 @@ public class SaveScript : MonoBehaviour
     public Text inputFieldPlayerScore1Text;
     public Text inputFieldPlayerScore2Text;
 
-    private int PlayerScore1;
-    private int PlayerScore2;
+    static int PlayerScore1;
+    static int PlayerScore2;
+    static String PlayerName1;
+    static String PlayerName2;
 
     public void Start()
     {
@@ -34,9 +35,11 @@ public class SaveScript : MonoBehaviour
     {
         inputFieldPlayerName1str = inputFieldPlayerName1.text;
         inputFieldPlayerName1Text.text = inputFieldPlayerName1str;
+        SetInputFieldPlayerName1(inputFieldPlayerScore1Text.text);
 
         inputFieldPlayerName2str = inputFieldPlayerName2.text;
         inputFieldPlayerName2Text.text = inputFieldPlayerName2str;
+        SetInputFieldPlayerName2(inputFieldPlayerScore1Text.text);
 
         inputFieldPlayerScore1str = inputFieldPlayerScore1.text;
         inputFieldPlayerScore1Text.text = inputFieldPlayerScore1str;
@@ -48,23 +51,45 @@ public class SaveScript : MonoBehaviour
     }
 
     public int GetInputFieldPlayerScore1(){
-        return this.PlayerScore1;
+        return PlayerScore1;
     }
 
     public int SetInputFieldPlayerScore1(String x)
     {
-        this.PlayerScore1 = int.Parse(inputFieldPlayerScore1str);
-        return this.PlayerScore1;
+        PlayerScore1 = int.Parse(x);
+        return PlayerScore1;
     }
 
     public int GetInputFieldPlayerScore2()
     {
-        return this.PlayerScore2;
+        return PlayerScore2;
     }
 
     public int SetInputFieldPlayerScore2(String x)
     {
-        this.PlayerScore2 = int.Parse(inputFieldPlayerScore2str);
-        return this.PlayerScore2;
+        PlayerScore2 = int.Parse(x);
+        return PlayerScore2;
+    }
+
+    public String GetInputFieldPlayerName1()
+    {
+        return PlayerName1;
+    }
+
+    public String SetInputFieldPlayerName1(String x)
+    {
+        PlayerName1 = x;
+        return PlayerName1;
+    }
+
+    public String GetInputFieldPlayerName2()
+    {
+        return PlayerName2;
+    }
+
+    public String SetInputFieldPlayerName2(String x)
+    {
+        PlayerName2 = x;
+        return PlayerName2;
     }
 }
