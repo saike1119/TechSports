@@ -7,14 +7,19 @@ using System.IO.Ports;
 using UniRx;
 
 public class SerialController : MonoBehaviour {
+    // 1. serial setting
     public string portName;
     public int baurate;
-
-    SerialPort serial;
+    public SerialPort serial;
     bool isLoop = true;
-    // Use this for initialization
+
+
+    // 2. field setting
+    public Field field;
+    public Sound sound;
 
     void Start () {
+        field = new Field();
         this.serial = new SerialPort(portName, baurate, Parity.None, 8, StopBits.One);
 
         try
@@ -33,7 +38,14 @@ public class SerialController : MonoBehaviour {
         while (this.isLoop)
         {
             string message = this.serial.ReadLine();
-            Debug.Log(message);
+            int mappingNum = int.Parse(message);
+            Debug.Log(mappingNum);
+
+            if ((mappingNum > 0) && (mappingNum < 16))
+            {
+                Debug.Log("x: " + field.getFieldPosition(mappingNum).x + ",y: " + field.getFieldPosition(mappingNum).y);
+            }
+            sound.playSound();
         }
     }
 
