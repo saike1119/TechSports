@@ -12,9 +12,201 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-25T14:20:13.067+09:00
+  lastUpdatedAtString: 2018-08-25T14:24:47.257+09:00
   initializedAtString: 2018-08-25T11:04:45.784+09:00
   log:
+  - commitID: d6ad19c8ad660d382efa7c9aa047b3c707dc480e
+    mergeA: 
+    mergeB: 
+    authorName: saike1119
+    authorEmail: saike1119@gmail.com
+    commitEmail: saike1119@gmail.com
+    commitName: saike1119
+    summary: "UI\u4F5C\u6210"
+    description: "UI\u4F5C\u6210"
+    timeString: 2018-08-25T14:23:13.000+09:00
+    commitTimeString: 2018-08-25T14:23:13.000+09:00
+    changes:
+    - path: .vs/TechSports/xs/UserPrefs.xml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/.vs/TechSports/xs/UserPrefs.xml
+      projectPath: .vs/TechSports/xs/UserPrefs.xml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs/TechSports/xs/sqlite3/storage.ide-wal
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/.vs/TechSports/xs/sqlite3/storage.ide-wal
+      projectPath: .vs/TechSports/xs/sqlite3/storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp-firstpass.csproj
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assembly-CSharp-firstpass.csproj
+      projectPath: Assembly-CSharp-firstpass.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/Scenes/UI.unity
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/UI.unity
+      projectPath: Assets/Scenes/UI.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/Scripts/SaveScript.cs
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/SaveScript.cs
+      projectPath: Assets/Scripts/SaveScript.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/Scripts/SerialHandler.cs
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/SerialHandler.cs
+      projectPath: Assets/Scripts/SerialHandler.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/Scripts/SerialLight.cs
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/SerialLight.cs
+      projectPath: Assets/Scripts/SerialLight.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll.mdb
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Unity.TextMeshPro.dll.mdb
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb
+      projectPath: Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/metadata/0a/0a378740481884551ae781deb9b08056
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/0a/0a378740481884551ae781deb9b08056
+      projectPath: Library/metadata/0a/0a378740481884551ae781deb9b08056
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15
+      projectPath: Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/32/3244fcc8f182e4be886428d3cb334d95
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/32/3244fcc8f182e4be886428d3cb334d95
+      projectPath: Library/metadata/32/3244fcc8f182e4be886428d3cb334d95
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TechSports.sln
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/TechSports.sln
+      projectPath: TechSports.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 0f5aac3295067d66bcc304d4a1ed9fb4676ddca5
     mergeA: 
     mergeB: 
