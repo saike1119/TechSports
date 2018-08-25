@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-08-25T11:03:15.413+09:00
+  lastUpdatedAtString: 2018-08-25T11:06:17.029+09:00
   initializedAtString: 2018-08-25T11:03:15.413+09:00
   currentGitRemote:
     name: origin
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/saike1119/TechSports.git
-  currentHead: cbf3e26
+  currentHead: 4c9637b
