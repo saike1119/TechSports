@@ -23,16 +23,16 @@ public class SaveScript : MonoBehaviour
     public void SaveText()
     {
         inputFieldPlayerName1str = inputFieldPlayerName1.text;
-        inputFieldPlayerName1.text = inputFieldPlayerName1str;
+        inputFieldPlayerName1Text.text = inputFieldPlayerName1str;
 
         inputFieldPlayerName2str = inputFieldPlayerName2.text;
-        inputFieldPlayerName2.text = inputFieldPlayerName2str;
+        inputFieldPlayerName2Text.text = inputFieldPlayerName2str;
 
         inputFieldPlayerScore1str = inputFieldPlayerScore1.text;
-        inputFieldPlayerScore1.text = inputFieldPlayerScore1str;
+        inputFieldPlayerScore1Text.text = inputFieldPlayerScore1str;
 
         inputFieldPlayerScore2str = inputFieldPlayerScore2.text;
-        inputFieldPlayerScore2.text = inputFieldPlayerScore2str;
+        inputFieldPlayerScore2Text.text = inputFieldPlayerScore2str;
         //inputField.text = "";
     }
 }
