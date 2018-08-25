@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-25T11:21:04.530+09:00
+  lastUpdatedAtString: 2018-08-25T11:28:10.124+09:00
   initializedAtString: 2018-08-25T11:03:15.665+09:00
   entries:
   - path: Assets/Scenes/Main.unity
@@ -26,12 +26,6 @@ MonoBehaviour:
     projectPath: Library/assetDatabase3
     originalPath: 
     status: 3
-    staged: 0
-  - path: Library/CrashedAssetImports.txt
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/CrashedAssetImports.txt
-    projectPath: Library/CrashedAssetImports.txt
-    originalPath: 
-    status: 1
     staged: 0
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/branches.yaml
@@ -60,12 +54,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings/ProjectSettings.asset
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/ProjectSettings/ProjectSettings.asset
-    projectPath: ProjectSettings/ProjectSettings.asset
     originalPath: 
     status: 3
     staged: 0
