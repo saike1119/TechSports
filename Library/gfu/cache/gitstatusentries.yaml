@@ -12,14 +12,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-25T11:28:10.124+09:00
+  lastUpdatedAtString: 2018-08-25T11:34:13.152+09:00
   initializedAtString: 2018-08-25T11:03:15.665+09:00
   entries:
-  - path: Assets/Scenes/Main.unity
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/Main.unity
-    projectPath: Assets/Scenes/Main.unity
+  - path: Assets/Scenes/UI.unity
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/UI.unity
+    projectPath: Assets/Scenes/UI.unity
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Assets/Scenes/UI.unity.meta
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/UI.unity.meta
+    projectPath: Assets/Scenes/UI.unity.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: Library/assetDatabase3
     fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
@@ -56,4 +62,16 @@ MonoBehaviour:
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library/metadata/3a/3ab7b784de553481da0e95c7563ea679
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/3a/3ab7b784de553481da0e95c7563ea679
+    projectPath: Library/metadata/3a/3ab7b784de553481da0e95c7563ea679
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/metadata/3a/3ab7b784de553481da0e95c7563ea679.info
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/3a/3ab7b784de553481da0e95c7563ea679.info
+    projectPath: Library/metadata/3a/3ab7b784de553481da0e95c7563ea679.info
+    originalPath: 
+    status: 1
     staged: 0
