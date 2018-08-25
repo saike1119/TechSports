@@ -16,6 +16,9 @@ public class GameController : MonoBehaviour {
     public GameObject player1WinText;
     public GameObject player2WinText;
 
+    public AudioClip sound;
+    AudioSource audioSource;
+
     SaveScript saveScript = new SaveScript();
 
     private void Start()
@@ -24,6 +27,9 @@ public class GameController : MonoBehaviour {
         inputFieldPlayerScore2Text.text = "0";
         inputFieldPlayerName1Text.text = "Player1";
         inputFieldPlayername2Text.text = "Player2";
+
+        audioSource = GetComponent<AudioSource>();
+
     }
 
     // Update is called once per frame
@@ -39,7 +45,10 @@ public class GameController : MonoBehaviour {
             Debug.Log("Player2 is 5points Win" + saveScript.GetInputFieldPlayerName2());
         }
 
-
-        //Debug.Log(inputFieldPlayerScore1Text.text);
+        //クリックしたら音を鳴らす処理
+        if (Input.GetMouseButtonUp(0))
+        {
+            audioSource.PlayOneShot(sound);
+        }
     }
 }
