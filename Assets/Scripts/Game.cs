@@ -3,20 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Game : MonoBehaviour {
-    Menco menco;
-    Field field;
-    //SerialController controller;
+    public GameObject menco;
 
-    // Use this for initialization
-    void Start () {
-        menco = new Menco();
-        field = new Field();
-        //controller = new SerialController();
-    }
-	
-	// Update is called once per frame
-	void Update () {
-        Position tmp = field.getPosition(1);
-        //Debug.Log(controller.serial.ReadLine());
+    public void createObject(){
+        Instantiate(menco, new Vector3(1.0f, 2.0f, 0.0f), Quaternion.identity);
     }
 }
