@@ -16,7 +16,8 @@ public class SerialController : MonoBehaviour {
 
     // 2. field setting
     public Field field;
-    public Sound sound;
+    public GameObject menco;
+    
 
     void Start () {
         field = new Field();
@@ -45,7 +46,6 @@ public class SerialController : MonoBehaviour {
             {
                 Debug.Log("x: " + field.getFieldPosition(mappingNum).x + ",y: " + field.getFieldPosition(mappingNum).y);
             }
-            sound.playSound();
         }
     }
 
