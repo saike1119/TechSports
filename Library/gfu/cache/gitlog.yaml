@@ -12,9 +12,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-25T14:24:47.257+09:00
+  lastUpdatedAtString: 2018-08-25T14:33:11.919+09:00
   initializedAtString: 2018-08-25T11:04:45.784+09:00
   log:
+  - commitID: 978f0f811ac6efac10eb76af426998b44e4397c1
+    mergeA: 
+    mergeB: 
+    authorName: saike1119
+    authorEmail: saike1119@gmail.com
+    commitEmail: saike1119@gmail.com
+    commitName: saike1119
+    summary: "UI\u30B7\u30FC\u30F3\u5909\u66F4"
+    description: "UI\u30B7\u30FC\u30F3\u5909\u66F4"
+    timeString: 2018-08-25T14:33:03.000+09:00
+    commitTimeString: 2018-08-25T14:33:03.000+09:00
+    changes:
+    - path: Assets/Scenes/UI.unity
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/UI.unity
+      projectPath: Assets/Scenes/UI.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: d6ad19c8ad660d382efa7c9aa047b3c707dc480e
     mergeA: 
     mergeB: 
@@ -8374,8 +8416,8 @@ MonoBehaviour:
     authorEmail: saike1119@gmail.com
     commitEmail: saike1119@gmail.com
     commitName: saike1119
-    summary: "UI\u30B7\u30FC\uFFFD\uFFFD\uFFFD\u8FFD\u52A0"
-    description: "UI\u30B7\u30FC\uFFFD\uFFFD\uFFFD\u8FFD\u52A0"
+    summary: "UI\u30B7\u30FC\u30F3\u8FFD\u52A0"
+    description: "UI\u30B7\u30FC\u30F3\u8FFD\u52A0"
     timeString: 2018-08-25T12:37:34.000+09:00
     commitTimeString: 2018-08-25T12:37:34.000+09:00
     changes:

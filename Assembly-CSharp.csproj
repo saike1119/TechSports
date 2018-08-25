@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\SaveScript.cs" />
     <Compile Include="Assets\Scripts\SerialController.cs" />
     <Compile Include="Assets\Scripts\SerialHandler.cs" />
