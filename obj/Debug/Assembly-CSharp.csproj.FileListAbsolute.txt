@@ -1,0 +1,2 @@
+/Users/KeisakuSai/GitHub/TechSports/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/KeisakuSai/GitHub/TechSports/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
