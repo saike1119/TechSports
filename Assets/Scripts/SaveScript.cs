@@ -40,7 +40,7 @@ public class SaveScript : MonoBehaviour
         }
         inputFieldPlayerName1str = inputFieldPlayerName1.text;
         inputFieldPlayerName1Text.text = inputFieldPlayerName1str;
-        SetInputFieldPlayerName1(inputFieldPlayerScore1Text.text);
+        SetInputFieldPlayerName1(inputFieldPlayerName1Text.text);
 
         if (inputFieldPlayerName2.text == null)
         {
@@ -49,7 +49,7 @@ public class SaveScript : MonoBehaviour
         }
         inputFieldPlayerName2str = inputFieldPlayerName2.text;
         inputFieldPlayerName2Text.text = inputFieldPlayerName2str;
-        SetInputFieldPlayerName2(inputFieldPlayerScore1Text.text);
+        SetInputFieldPlayerName2(inputFieldPlayerName2Text.text);
 
         inputFieldPlayerScore1str = inputFieldPlayerScore1.text;
         inputFieldPlayerScore1Text.text = inputFieldPlayerScore1str;
