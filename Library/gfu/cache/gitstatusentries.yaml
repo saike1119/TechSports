@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-25T12:36:54.121+09:00
+  lastUpdatedAtString: 2018-08-25T12:43:06.351+09:00
   initializedAtString: 2018-08-25T11:03:15.665+09:00
   entries:
   - path: Assets/Scenes/UI.unity
@@ -24,18 +24,6 @@ MonoBehaviour:
   - path: Library/assetDatabase3
     fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
     projectPath: Library/assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/CrashedAssetImports.txt
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/CrashedAssetImports.txt
-    projectPath: Library/CrashedAssetImports.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library/EditorUserBuildSettings.asset
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/EditorUserBuildSettings.asset
-    projectPath: Library/EditorUserBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
@@ -66,24 +54,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/InspectorExpandedItems.asset
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings/EditorBuildSettings.asset
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/ProjectSettings/EditorBuildSettings.asset
-    projectPath: ProjectSettings/EditorBuildSettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings/ProjectSettings.asset
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/ProjectSettings/ProjectSettings.asset
-    projectPath: ProjectSettings/ProjectSettings.asset
     originalPath: 
     status: 3
     staged: 0
