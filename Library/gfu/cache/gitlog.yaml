@@ -12,9 +12,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-25T12:02:32.467+09:00
+  lastUpdatedAtString: 2018-08-25T12:08:48.570+09:00
   initializedAtString: 2018-08-25T11:04:45.784+09:00
   log:
+  - commitID: e3a56fcd00afbc72c7815e3cae87090ff986f2e2
+    mergeA: 
+    mergeB: 
+    authorName: saike1119
+    authorEmail: saike1119@gmail.com
+    commitEmail: saike1119@gmail.com
+    commitName: saike1119
+    summary: "main\u304B\u3089ui\u524A\u9664"
+    description: "main\u304B\u3089ui\u524A\u9664"
+    timeString: 2018-08-25T12:05:49.000+09:00
+    commitTimeString: 2018-08-25T12:05:49.000+09:00
+    changes:
+    - path: Library/CrashedAssetImports.txt
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 69e7baa351ab949f95251eefe66dc94bd7c8f060
     mergeA: 
     mergeB: 

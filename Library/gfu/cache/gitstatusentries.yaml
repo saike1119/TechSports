@@ -12,12 +12,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-25T12:02:32.164+09:00
+  lastUpdatedAtString: 2018-08-25T12:13:18.186+09:00
   initializedAtString: 2018-08-25T11:03:15.665+09:00
   entries:
+  - path: Assets/Scenes/Main.unity
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/Main.unity
+    projectPath: Assets/Scenes/Main.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Scenes/UI.unity
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/UI.unity
+    projectPath: Assets/Scenes/UI.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/CrashedAssetImports.txt
     fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/CrashedAssetImports.txt
     projectPath: Library/CrashedAssetImports.txt
     originalPath: 
-    status: 5
+    status: 1
+    staged: 0
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    status: 1
     staged: 0
