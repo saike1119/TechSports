@@ -12,9 +12,255 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-25T12:31:16.961+09:00
+  lastUpdatedAtString: 2018-08-25T12:35:20.614+09:00
   initializedAtString: 2018-08-25T11:04:45.784+09:00
   log:
+  - commitID: f6e7e90d22a35754e535a1cd02de190112035c96
+    mergeA: 
+    mergeB: 
+    authorName: saike1119
+    authorEmail: saike1119@gmail.com
+    commitEmail: saike1119@gmail.com
+    commitName: saike1119
+    summary: "\u30A2\u30EB\u30C7\u30A3\u30FC\u30CE\u306E\u3084\u3064\u8FFD\u52A0"
+    description: "\u30A2\u30EB\u30C7\u30A3\u30FC\u30CE\u306E\u3084\u3064\u8FFD\u52A0"
+    timeString: 2018-08-25T12:35:04.000+09:00
+    commitTimeString: 2018-08-25T12:35:04.000+09:00
+    changes:
+    - path: .vs/TechSports/xs/UserPrefs.xml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/.vs/TechSports/xs/UserPrefs.xml
+      projectPath: .vs/TechSports/xs/UserPrefs.xml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vs/TechSports/xs/sqlite3/db.lock
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/.vs/TechSports/xs/sqlite3/db.lock
+      projectPath: .vs/TechSports/xs/sqlite3/db.lock
+      originalPath: Library/CrashedAssetImports.txt
+      status: 6
+      staged: 0
+    - path: .vs/TechSports/xs/sqlite3/storage.ide
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/.vs/TechSports/xs/sqlite3/storage.ide
+      projectPath: .vs/TechSports/xs/sqlite3/storage.ide
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vs/TechSports/xs/sqlite3/storage.ide-shm
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/.vs/TechSports/xs/sqlite3/storage.ide-shm
+      projectPath: .vs/TechSports/xs/sqlite3/storage.ide-shm
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vs/TechSports/xs/sqlite3/storage.ide-wal
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/.vs/TechSports/xs/sqlite3/storage.ide-wal
+      projectPath: .vs/TechSports/xs/sqlite3/storage.ide-wal
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/SerialHandler.cs
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/SerialHandler.cs
+      projectPath: Assets/Scripts/SerialHandler.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/SerialHandler.cs.meta
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/SerialHandler.cs.meta
+      projectPath: Assets/Scripts/SerialHandler.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/SerialLight.cs
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/SerialLight.cs
+      projectPath: Assets/Scripts/SerialLight.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/SerialLight.cs.meta
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts/SerialLight.cs.meta
+      projectPath: Assets/Scripts/SerialLight.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/0a/0a378740481884551ae781deb9b08056
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/0a/0a378740481884551ae781deb9b08056
+      projectPath: Library/metadata/0a/0a378740481884551ae781deb9b08056
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/0a/0a378740481884551ae781deb9b08056.info
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/0a/0a378740481884551ae781deb9b08056.info
+      projectPath: Library/metadata/0a/0a378740481884551ae781deb9b08056.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15
+      projectPath: Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15.info
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15.info
+      projectPath: Library/metadata/11/11328f6aa40374ee183e0e93f2fecc15.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TechSports.sln
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/TechSports.sln
+      projectPath: TechSports.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp/UnityTempFile-1bc57b4ab47aa40dcadf3e4883dadfab
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-1bc57b4ab47aa40dcadf3e4883dadfab
+      projectPath: Temp/UnityTempFile-1bc57b4ab47aa40dcadf3e4883dadfab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-1d7e29dc21d004f00b46332bdfe3039b
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-1d7e29dc21d004f00b46332bdfe3039b
+      projectPath: Temp/UnityTempFile-1d7e29dc21d004f00b46332bdfe3039b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-240a6fae62e1845e89c133d0ff7acb4b
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-240a6fae62e1845e89c133d0ff7acb4b
+      projectPath: Temp/UnityTempFile-240a6fae62e1845e89c133d0ff7acb4b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-40dae15167c814773840dbd6cf7e06f7
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-40dae15167c814773840dbd6cf7e06f7
+      projectPath: Temp/UnityTempFile-40dae15167c814773840dbd6cf7e06f7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-615af257c931e463a83da004d09747ef
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-615af257c931e463a83da004d09747ef
+      projectPath: Temp/UnityTempFile-615af257c931e463a83da004d09747ef
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-769d9ca44a4b8472684ba17ed08c72aa
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-769d9ca44a4b8472684ba17ed08c72aa
+      projectPath: Temp/UnityTempFile-769d9ca44a4b8472684ba17ed08c72aa
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-79ee42563d09c472e96dbfcf0f2faee8
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-79ee42563d09c472e96dbfcf0f2faee8
+      projectPath: Temp/UnityTempFile-79ee42563d09c472e96dbfcf0f2faee8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-7a3f0c5b07cd9420f8ccaad449dbf0f4
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-7a3f0c5b07cd9420f8ccaad449dbf0f4
+      projectPath: Temp/UnityTempFile-7a3f0c5b07cd9420f8ccaad449dbf0f4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-7f514905e390b43feb1ad99472bbc71e
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-7f514905e390b43feb1ad99472bbc71e
+      projectPath: Temp/UnityTempFile-7f514905e390b43feb1ad99472bbc71e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-a2e9aec0d7ed8429ba3c980431d08cf4
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-a2e9aec0d7ed8429ba3c980431d08cf4
+      projectPath: Temp/UnityTempFile-a2e9aec0d7ed8429ba3c980431d08cf4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityTempFile-ab6738f1034d74246ba06930ad8ca5fb
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/UnityTempFile-ab6738f1034d74246ba06930ad8ca5fb
+      projectPath: Temp/UnityTempFile-ab6738f1034d74246ba06930ad8ca5fb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 7c8956516975402fbdf920b11af2dbe4d5b7dfc3
     mergeA: 
     mergeB: 
