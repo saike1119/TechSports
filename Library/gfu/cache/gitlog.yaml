@@ -12,9 +12,99 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-25T11:34:45.925+09:00
+  lastUpdatedAtString: 2018-08-25T11:51:37.922+09:00
   initializedAtString: 2018-08-25T11:04:45.784+09:00
   log:
+  - commitID: 01b38f9dda30cd9be098e65aa477108bc16f0d38
+    mergeA: 
+    mergeB: 
+    authorName: saike1119
+    authorEmail: saike1119@gmail.com
+    commitEmail: saike1119@gmail.com
+    commitName: saike1119
+    summary: "Input\u4F5C\u6210"
+    description: "Input\u4F5C\u6210"
+    timeString: 2018-08-25T11:51:25.000+09:00
+    commitTimeString: 2018-08-25T11:51:25.000+09:00
+    changes:
+    - path: Assets/Scenes/Main.unity
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/Main.unity
+      projectPath: Assets/Scenes/Main.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets/Scripts.meta
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
+      projectPath: Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
+      projectPath: Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a
+      projectPath: Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a.info
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a.info
+      projectPath: Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 8aab7b4f28cee8ecfe1ae9bad4fe1472127ae878
     mergeA: 
     mergeB: 

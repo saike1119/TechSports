@@ -12,20 +12,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-25T11:50:35.016+09:00
+  lastUpdatedAtString: 2018-08-25T11:53:02.021+09:00
   initializedAtString: 2018-08-25T11:03:15.665+09:00
   entries:
-  - path: Assets/Scenes/Main.unity
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/Main.unity
-    projectPath: Assets/Scenes/Main.unity
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Scenes/SampleScene.unity.meta
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/SampleScene.unity.meta
+    projectPath: Assets/Scenes/SampleScene.unity.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets/Scenes/UI.unity
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/UI.unity
+    projectPath: Assets/Scenes/UI.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets/Scripts.meta
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scripts.meta
-    projectPath: Assets/Scripts.meta
+  - path: Assets/Scenes/UI.unity.meta
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Assets/Scenes/UI.unity.meta
+    projectPath: Assets/Scenes/UI.unity.meta
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Library/assetDatabase3
     fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/assetDatabase3
@@ -63,33 +75,39 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a
-    projectPath: Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a
+  - path: Library/metadata/00/001a575c6bd644b269415a4f07c80bbc
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/00/001a575c6bd644b269415a4f07c80bbc
+    projectPath: Library/metadata/00/001a575c6bd644b269415a4f07c80bbc
     originalPath: 
     status: 1
     staged: 0
-  - path: Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a.info
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a.info
-    projectPath: Library/metadata/49/49966757a75ac4b6fab020fdf2517f9a.info
+  - path: Library/metadata/00/001a575c6bd644b269415a4f07c80bbc.info
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/00/001a575c6bd644b269415a4f07c80bbc.info
+    projectPath: Library/metadata/00/001a575c6bd644b269415a4f07c80bbc.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
-    projectPath: Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
+  - path: Library/metadata/3a/3ab7b784de553481da0e95c7563ea679
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/3a/3ab7b784de553481da0e95c7563ea679
+    projectPath: Library/metadata/3a/3ab7b784de553481da0e95c7563ea679
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
-  - path: Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
-    projectPath: Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
+  - path: Library/metadata/3a/3ab7b784de553481da0e95c7563ea679.info
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/3a/3ab7b784de553481da0e95c7563ea679.info
+    projectPath: Library/metadata/3a/3ab7b784de553481da0e95c7563ea679.info
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
-  - path: Library/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+  - path: Library/metadata/99/99c9720ab356a0642a771bea13969a05
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/99/99c9720ab356a0642a771bea13969a05
+    projectPath: Library/metadata/99/99c9720ab356a0642a771bea13969a05
     originalPath: 
-    status: 3
+    status: 5
+    staged: 0
+  - path: Library/metadata/99/99c9720ab356a0642a771bea13969a05.info
+    fullPath: /Users/KeisakuSai/GitHub/TechSports/Library/metadata/99/99c9720ab356a0642a771bea13969a05.info
+    projectPath: Library/metadata/99/99c9720ab356a0642a771bea13969a05.info
+    originalPath: 
+    status: 5
     staged: 0
