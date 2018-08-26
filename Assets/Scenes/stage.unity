@@ -149,7 +149,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 18178209}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -296,7 +296,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (15)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &32279723 stripped
@@ -340,7 +351,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 52925454}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -600,7 +611,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (8)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &109636197 stripped
@@ -753,7 +775,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (11)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &150559805 stripped
@@ -1330,7 +1363,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (4)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &371951784 stripped
@@ -1436,7 +1480,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (19)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &380556034 stripped
@@ -1598,7 +1653,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (17)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &436708770 stripped
@@ -1704,7 +1770,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (6)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &477711449 stripped
@@ -1746,7 +1823,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4887825797865974, guid: 563ec5922bcdb412e8db4f778f803029, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 2.93
+      value: 7.8
       objectReference: {fileID: 0}
     - target: {fileID: 4887825797865974, guid: 563ec5922bcdb412e8db4f778f803029, type: 2}
       propertyPath: m_LocalPosition.y
@@ -1754,7 +1831,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4887825797865974, guid: 563ec5922bcdb412e8db4f778f803029, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 111.32
+      value: 110.8
       objectReference: {fileID: 0}
     - target: {fileID: 4887825797865974, guid: 563ec5922bcdb412e8db4f778f803029, type: 2}
       propertyPath: m_LocalRotation.x
@@ -1953,7 +2030,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (10)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &541002127 stripped
@@ -2059,7 +2147,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (20)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &569066924 stripped
@@ -2165,7 +2264,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (5)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &597212509 stripped
@@ -2182,7 +2292,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4562901019349418, guid: d4e7382add86142388c877ea190ed72b, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4562901019349418, guid: d4e7382add86142388c877ea190ed72b, type: 2}
       propertyPath: m_LocalPosition.y
@@ -2190,7 +2300,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4562901019349418, guid: d4e7382add86142388c877ea190ed72b, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 1.98
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4562901019349418, guid: d4e7382add86142388c877ea190ed72b, type: 2}
       propertyPath: m_LocalRotation.x
@@ -2670,7 +2780,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 808541914}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -2923,7 +3033,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 867147378}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -3618,7 +3728,7 @@ Prefab:
         type: 3}
     - target: {fileID: 1697191663420396, guid: 71173c71eed5442f5972bb24b2f438f2, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1898684920714872, guid: 71173c71eed5442f5972bb24b2f438f2, type: 2}
       propertyPath: m_IsActive
@@ -3755,7 +3865,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (23)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &959563880 stripped
@@ -4153,7 +4274,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (9)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1140823080 stripped
@@ -4335,7 +4467,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (7)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1154637366 stripped
@@ -4441,7 +4584,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (3)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1181779868 stripped
@@ -4485,7 +4639,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1198054844}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -5325,7 +5479,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (21)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1415712949 stripped
@@ -5518,7 +5683,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1490130186}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -5645,7 +5810,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1537508872}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -5798,7 +5963,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (18)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1587865970 stripped
@@ -5904,7 +6080,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (13)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1601673877 stripped
@@ -6117,7 +6304,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (16)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1631219032 stripped
@@ -6161,7 +6359,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1647380021}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -6246,7 +6444,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1679621782}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -6424,7 +6622,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1716152460 stripped
@@ -6630,7 +6839,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (22)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1758728912 stripped
@@ -6956,7 +7176,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1820048832}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -7103,7 +7323,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (12)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1838482681 stripped
@@ -7205,7 +7436,18 @@ Prefab:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1841554203 stripped
@@ -7249,7 +7491,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1842527640}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -7458,7 +7700,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (2)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &1885532371 stripped
@@ -7556,7 +7809,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1943574041}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -7774,7 +8027,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (24)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &2019664817 stripped
@@ -7880,7 +8144,18 @@ Prefab:
       propertyPath: m_Name
       value: Cube 1 (14)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 65399785411505554, guid: 75205fef16a7e48dba815ab5d5e6255f,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 54811681160519568, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 75205fef16a7e48dba815ab5d5e6255f, type: 2}
   m_IsPrefabAsset: 0
 --- !u!4 &2029654664 stripped
@@ -8130,7 +8405,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2106952538}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -8215,7 +8490,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2122199629}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1

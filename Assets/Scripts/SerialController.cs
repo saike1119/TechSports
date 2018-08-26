@@ -50,20 +50,20 @@ public class SerialController : MonoBehaviour {
     void Update()
     {
         string message = this.serial.ReadLine();
-        if(message==null){
+        if(message==""){
             message = "0";
         }
 
         Debug.Log(message);
-        int mappingNum = int.Parse(message);
+        int mappingNum = int.Parse(message)-1;
         Debug.Log(mappingNum);
 
-        if ((mappingNum > 0) && (mappingNum < 16))
+        if ((mappingNum >= 0) && (mappingNum < 25))
         {
             Debug.Log("x: " + field.getFieldPosition(mappingNum).x + ",y: " + field.getFieldPosition(mappingNum).y);
-            //Instantiate(menco, new Vector3(10f, 10f, 10f), Quaternion.identity, transform);
+            Instantiate(menco, new Vector3(field.getFieldPosition(mappingNum).x, 10f, field.getFieldPosition(mappingNum).y), Quaternion.identity, transform);
             UnityEngine.Object.Instantiate(mTapEffect,
-                                           new Vector3(field.getFieldPosition(mappingNum).x, 5f, field.getFieldPosition(mappingNum).y),
+                                           new Vector3(field.getFieldPosition(mappingNum).x, 3f, field.getFieldPosition(mappingNum).y),
                                            Quaternion.Euler(90, 0, 0), transform);
         }
     }
