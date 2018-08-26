@@ -39,14 +39,14 @@ public class GameController : MonoBehaviour {
     void Update () {
         if (saveScript.GetInputFieldPlayerScore1() >= 5){
             player1WinText.SetActive(true);
-            player1Win.text = saveScript.GetInputFieldPlayerName1()+ " の かち!";
+            player1Win.text = ""+saveScript.GetInputFieldPlayerName1()+ " の かち!";
             Debug.Log("Player1 is 5points Win"+saveScript.GetInputFieldPlayerName1());
         }
 
         if (saveScript.GetInputFieldPlayerScore2() >= 5)
         {
             player2WinText.SetActive(true);
-            player2Win.text = saveScript.GetInputFieldPlayerName2() + " の かち!";
+            player2Win.text = ""+saveScript.GetInputFieldPlayerName2() + " の かち!";
             Debug.Log("Player2 is 5points Win" + saveScript.GetInputFieldPlayerName2());
         }
 
