@@ -303,10 +303,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75795bdc504154eae846ddfb24fcd49c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  length: 450
+  fieldBlock: 5
   portName: /dev/cu.usbmodem14511
   baurate: 115200
   field: {fileID: 0}
-  sound: {fileID: 0}
+  menco: {fileID: 1876856968935034, guid: f9557a089d8da47b6988761140a19fc4, type: 2}
+  mTapEffect: {fileID: 1758527809547754, guid: de7c83994231342029ac8086b5761017, type: 2}
 --- !u!1001 &951937219
 Prefab:
   m_ObjectHideFlags: 0

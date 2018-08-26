@@ -7,7 +7,7 @@ using System.IO.Ports;
 using UniRx;
 
 public class SerialController : MonoBehaviour {
-    public int length = 450;
+    public int length = 10;
     public int fieldBlock = 5;
 
     // 1. serial setting
@@ -27,8 +27,8 @@ public class SerialController : MonoBehaviour {
     void Start () {
         field = new Field(length, fieldBlock);
         this.serial = new SerialPort(portName, baurate, Parity.None, 8, StopBits.One);
-        string message = this.serial.ReadLine();
-        int mappingNum = int.Parse(message);
+        //string message = this.serial.ReadLine();
+        //int mappingNum = int.Parse(message);
 
 
         try
@@ -50,13 +50,18 @@ public class SerialController : MonoBehaviour {
     void Update()
     {
         string message = this.serial.ReadLine();
+        if(message==null){
+            message = "0";
+        }
+
+        Debug.Log(message);
         int mappingNum = int.Parse(message);
-        //Debug.Log(mappingNum);
+        Debug.Log(mappingNum);
 
         if ((mappingNum > 0) && (mappingNum < 16))
         {
-            //Debug.Log("x: " + field.getFieldPosition(mappingNum).x + ",y: " + field.getFieldPosition(mappingNum).y);
-            Instantiate(menco, new Vector3(10, 10, 10f), Quaternion.identity);
+            Debug.Log("x: " + field.getFieldPosition(mappingNum).x + ",y: " + field.getFieldPosition(mappingNum).y);
+            //Instantiate(menco, new Vector3(10f, 10f, 10f), Quaternion.identity, transform);
             UnityEngine.Object.Instantiate(mTapEffect,
                                            new Vector3(field.getFieldPosition(mappingNum).x, 5f, field.getFieldPosition(mappingNum).y),
                                            Quaternion.Euler(90, 0, 0), transform);
