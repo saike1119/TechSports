@@ -6,9 +6,9 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: RippleMat
+  m_Name: TapRippleMat
   m_Shader: {fileID: 4800000, guid: 4a9c6930087e94301a82d7a467b0837d, type: 3}
-  m_ShaderKeywords: PIXELSNAP_ON _ISALPHA_ON _ISCOLORSHIFT_ON
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA PIXELSNAP_ON _ISALPHA_ON _ISCOLORSHIFT_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
