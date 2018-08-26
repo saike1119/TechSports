@@ -17,22 +17,20 @@ public class SerialController : MonoBehaviour {
     // 2. field setting
     public Field field;
     public GameObject menco;
-    
+
+    public GameObject mTapEffect;
+
 
     void Start () {
         field = new Field();
         this.serial = new SerialPort(portName, baurate, Parity.None, 8, StopBits.One);
         string message = this.serial.ReadLine();
         int mappingNum = int.Parse(message);
-        //if (message != null)
-        //{
-            Instantiate(menco, new Vector3(field.getFieldPosition(mappingNum).x - 225, 100f, field.getFieldPosition(mappingNum).y - 225), Quaternion.identity);
-        //}
+
+
         try
         {
             this.serial.Open();
-            //Scheduler.ThreadPool.Schedule(() => ReadData()).AddTo(this);
-            //Debug.Log();
         }
         catch (Exception e)
         {
@@ -64,9 +62,17 @@ public class SerialController : MonoBehaviour {
 
     void Update()
     {
+        string message = this.serial.ReadLine();
+        int mappingNum = int.Parse(message);
+        //Debug.Log(mappingNum);
 
-        //Debug.Log(this.serial.ReadLine());
-        //Debug.Log("x: " + field.getFieldPosition(mappingNum).x + ",y: " + field.getFieldPosition(mappingNum).y);
-
+        if ((mappingNum > 0) && (mappingNum < 16))
+        {
+            //Debug.Log("x: " + field.getFieldPosition(mappingNum).x + ",y: " + field.getFieldPosition(mappingNum).y);
+            Instantiate(menco, new Vector3(10, 10, 10f), Quaternion.identity);
+            UnityEngine.Object.Instantiate(mTapEffect,
+                                           new Vector3(field.getFieldPosition(mappingNum).x, 5f, field.getFieldPosition(mappingNum).y),
+                                           Quaternion.Euler(90, 0, 0), transform);
+        }
     }
 }
